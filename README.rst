@@ -4,17 +4,15 @@
 
 
 # Leaving Orbit
+
 Jogo de Nave Espacial desenvolvido em Python3 com auxilio da biblioteca do Pygame para disciplina de Programação de Computadores na Graduação de Ciência da Computação
 
 
-Pygame_ is a free and open-source cross-platform library
-for the development of multimedia applications like video games using Python.
-It uses the `Simple DirectMedia Layer library`_ and several other
-popular libraries to abstract the most common functions, making writing
-these programs a more intuitive task.
-
-`We need your help`_ to make pygame the best it can be!
-New contributors are welcome.
+Pygame_ é uma biblioteca multiplataforma gratuita e de código aberto
+para o desenvolvimento de aplicativos multimídia como videogames usando Python.
+Ele usa a `Simple DirectMedia Layer library`_ e vários outros
+bibliotecas populares para abstrair as funções mais comuns, tornando a escrita
+esses programas uma tarefa mais intuitiva.
 
 
 Instalação
