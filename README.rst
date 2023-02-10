@@ -2,8 +2,10 @@
   :alt: pygame
   :target: https://www.pygame.org/
 
+
 |AppVeyorBuild| |PyPiVersion| |PyPiLicense|
 |Python3| |GithubCommits| |BlackFormatBadge|
+
 
 # Leaving Orbit
 Jogo de Nave Espacial desenvolvido em Python3 com auxilio da biblioteca do Pygame para disciplina de Programação de Computadores na Graduação de Ciência da Computação
