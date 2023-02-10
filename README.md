@@ -18,15 +18,19 @@ esses programas uma tarefa mais intuitiva.
 Instalação
 ------------
 0 - Se você ainda não tiver python instalado na sua maquina execute antes:
-:: sudo apt update
-
+```bash
+sudo apt update
+```
 Depois:
-:: apt install python3
-
+```bash
+apt install python3
+```
 1 - Primeiramente execute o codigo em seu terminal linux:
-:: python3 -m pip install -U pygame --user
-
+```bash
+python3 -m pip install -U pygame --user
+```
 2 - agora va até sua pasta raiz onde se encontra o arquivo Gamezin.py e digite o seguinte comando em seu terminal:
-:: python3 Gamezin.py
-
+```bash
+python3 Gamezin.py
+```
 
